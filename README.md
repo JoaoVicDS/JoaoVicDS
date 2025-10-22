@@ -2,8 +2,8 @@
 
 - 💻 Criando bugs desde 2022.
 - 👨‍💻 Desenvolvedor Backend Júnior.
-- 🎓 Cursando o 4º período de Análise e Desenvolvimento de Sistemas na Faculdade Insted.
-- 🧠 Estou estudando .NET e inglês.
+- 🎓 Cursando o 5º período de Análise e Desenvolvimento de Sistemas na Faculdade Insted.
+- 🧠 Estou estudando Inteligência Artificial e inglês.
 
 ### Contato
 
